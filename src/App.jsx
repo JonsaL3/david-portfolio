@@ -1,8 +1,8 @@
-import Portfolio from './Portfolio.jsx'
+import SportPortfolio from './Portfolio.jsx'
 
 function App() {
   return (
-    <Portfolio />
+    <SportPortfolio />
   )
 }
 

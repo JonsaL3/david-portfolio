@@ -111,7 +111,7 @@ const SportPortfolio = () => {
           initial={{ y: 50 }}
           animate={{ y: 0 }}
         >
-          Educador Físico | Especialista en Deporte
+          Entrenador de futbol UEFA C | Especialista en Deporte
         </motion.h2>
         
         <div className="flex gap-6">
@@ -239,7 +239,7 @@ const SportPortfolio = () => {
             <Trophy className="w-12 h-12 text-green-600 mb-4" />
             <h4 className="text-xl font-bold text-gray-800 mb-2">Grado superior de deporte (TSEAS)</h4>
             <p className="text-gray-600">Técnico Superior en Enseñanza y Animación Sociodeportiva</p>
-            <span className="inline-block mt-2 px-3 py-1 bg-green-100 text-green-600 rounded-full text-sm">2019 - 2021</span>
+            <span className="inline-block mt-2 px-3 py-1 bg-green-100 text-green-600 rounded-full text-sm">2020 - 2022</span>
           </motion.div>
 
           <motion.div 
